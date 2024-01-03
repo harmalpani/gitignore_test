@@ -1,3 +1,0 @@
-hi this is test for gitignore file.
-
-line one is edited .
